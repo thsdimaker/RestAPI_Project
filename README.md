@@ -5,6 +5,9 @@ RestAPI 호출을 위한 테스트 프로젝트 입니다.
 
 Google Books의 자료를 GET방식으로 호출하여 Json 형식으로 받기
 
+![Result](https://user-images.githubusercontent.com/59603054/108664837-ecf2d680-7516-11eb-93e8-b771d222c6b4.jpg)
+
+
 # 개발도구
 
 Vscode(Extension) : REST Client 
