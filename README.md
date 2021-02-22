@@ -19,7 +19,7 @@ Vscode(Extension) : REST Client
 
 # RestAPI 기본개념
 
-# Why 탄생
+# Why 이런 개념이 나오게 됬을까?
 : 표준화된 호출을 위한 하나의 개념
 
 클라이언트와 서버가 소통을 할려면
