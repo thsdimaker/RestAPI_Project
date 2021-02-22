@@ -1,6 +1,13 @@
 # RestAPI_Project
 RestAPI 호출을 위한 테스트 프로젝트 입니다.
 
+# Porject 개요
+
+Google Books의 자료를 GET방식으로 호출하여 Json 형식으로 받기
+
+# 개발도구
+
+Vscode(Extension) : REST Client 
 
 
 # RestAPI 기본개념
@@ -31,4 +38,5 @@ SQL Update
 
 * Delete(Delete)
 SQL Delete
+
 
